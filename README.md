@@ -1,4 +1,4 @@
-# do_it
+# do_it 🌷
 
 A mobile to-do list application. The application is divided into two parts: 
 - The simple task list
